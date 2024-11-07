@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topic 2 Scaling and text", "Topic 2 Scaling and text.csproj", "{DE5A0658-282F-4DC3-B4E8-BF752A25023C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE5A0658-282F-4DC3-B4E8-BF752A25023C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5A0658-282F-4DC3-B4E8-BF752A25023C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5A0658-282F-4DC3-B4E8-BF752A25023C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5A0658-282F-4DC3-B4E8-BF752A25023C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEE90D0F-829E-4C0D-A9F0-92018E263AA4}
+	EndGlobalSection
+EndGlobal
